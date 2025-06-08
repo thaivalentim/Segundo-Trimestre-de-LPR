@@ -1,4 +1,4 @@
-﻿int[] vetor = new int[10]; //aa
+﻿int[] vetor = new int[10]; //:) 
 int[] pares = new int[10];
 int[] impares = new int[10];
 int contadorPares = 0;
